@@ -1,0 +1,4 @@
+/*hermanos hoja2.css*/
+div + p {
+   color: red;
+}
